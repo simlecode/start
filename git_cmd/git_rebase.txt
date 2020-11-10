@@ -1,0 +1,5 @@
+git pull
+git checkout local
+git rebase -i head~2
+git checkout master
+git merge local
